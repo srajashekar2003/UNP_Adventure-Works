@@ -1,5 +1,5 @@
 # UNP_Adventure-Works
-KEY HIGHLIGHTS
+KEY HIGHLIGHTS: 
 
 -Prepared an interactive sales dashboard for the company with three categories: Regional Analysis, Product Analysis, and Customer Analysis
 
