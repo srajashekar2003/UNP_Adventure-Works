@@ -9,4 +9,4 @@ KEY HIGHLIGHTS:
   
 Excel Link: https://docs.google.com/spreadsheets/d/1Ql4ExVaBOAu7YpDgqV_o0RGTDZNiq0w7YMbfGeuZl48/edit?usp=drivesdk
 
-PDF Link: https://drive.google.com/drive/folders/1GiQnumYflzrZHYXJvgTgnDPp_iUstf5H?usp=drive_link 
+PDF Link: https://drive.google.com/file/d/15LBuJ0SiATzPWs-FrKBWzAWgz5THGQrk/view?usp=sharing
